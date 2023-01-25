@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/06 14:58:07.000.386,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\GroupedItems2.pas</Transaction>
+    <Transaction>2022/06/06 14:58:08.000.105,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\SplitItemDetail1.pas</Transaction>
+    <Transaction>2023/01/24 16:12:13.000.926,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/24 16:14:18.000.674,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\pruebas\delphiAI\umain.fmx=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2023/01/24 16:14:18.000.674,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\pruebas\delphiAI\umain.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/24 16:14:26.000.648,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\pruebas\delphiAI\ChatGpt.dproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/01/24 16:15:34.000.113,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\pruebas\delphiAI\UliGpt.dproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\pruebas\delphiAI\ChatGpt.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
